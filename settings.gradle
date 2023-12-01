@@ -1,0 +1,5 @@
+rootProject.name = 'cl'
+include 'genA'
+include 'interfacePackage'
+include 'genB'
+
